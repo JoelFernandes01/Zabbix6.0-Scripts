@@ -9,6 +9,7 @@ echo "######################################################################"
 echo "                          FONTE DO SCRIPT:                            "
 echo "           https://github.com/isaqueprofeta/zabbix-pipe2bash          "
 echo "           Update por: Euzébio Viana                                  "
+echo "           ATENÇÃO: É NECESSÁRIO TER A PARTIÇÃO /data no servidor!    "
 echo "######################################################################"
 
 echo "########################################################"
