@@ -6,7 +6,7 @@ HOSTNAME_PROXY="PRX-01"
 
 echo "######################################################################"
 echo "                        INSTALACAO DO ZABBIX PROXY 6                  "
-echo "           SISTEMAS OPERACIONAIS RHEL-LIKE ROCKY/ALMA LINUX           "
+echo "           SISTEMAS OPERACIONAIS RHEL 9 - LIKE ROCKY/ALMA LINUX       "
 echo "######################################################################"
 echo "                          BASEADO EM SCRIPT:                            "
 echo "           https://github.com/isaqueprofeta/zabbix-pipe2bash            "
